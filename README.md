@@ -30,7 +30,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6KxSqi4.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 1. Log in to your osTicket account.->
@@ -40,7 +40,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xLjJHRH.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 4. Fill in the required information, such as the ticket subject, description, and priority level (e.g., Sev-A, Sev-B, Sev-C).
@@ -50,7 +50,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/T4LtCCF.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 7. Monitor the ticket and any updates from the support team until the issue is resolved.
@@ -58,7 +58,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 9. Enter a reason for closing the ticket, such as "Issue resolved" or "Ticket completed".
 </p>
 <br />
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ntt9RGV.png" alt="Disk Sanitization Steps"/>
 10. If necessary, reopen the ticket by clicking on the "Reopen" button at the bottom of the ticket page if the issue reoccurs or is not fully resolved.
 </p>
 
